@@ -109,14 +109,3 @@ Built as a learning project to understand Express middleware, authentication flo
 
 ---
 
-### ✅ Result
-- Headings will appear **large & bold**
-- Bullet points will be **proper lists**
-- Code blocks will be **formatted correctly**
-- Emojis will render properly on GitHub
-
-If you want, I can also:
-- Customize it with **your name**
-- Shorten it for **resume projects**
-- Add **screenshots section**
-- Make it **more professional / corporate style**
