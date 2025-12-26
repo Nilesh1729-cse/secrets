@@ -1,8 +1,8 @@
-🔐 Password Protected Secrets Page (Express Middleware)
+**🔐 Password Protected Secrets Page (Express Middleware)**
 
 This project demonstrates how Express middleware can be used to protect routes using a password-based authentication system. When the server is run locally, an HTML page is served where users must enter the correct password to access a protected secrets page.
 
-🚀 Features
+**🚀 Features**
 
 Express.js middleware for password validation
 
@@ -16,7 +16,7 @@ Tested using Postman and browser
 
 Lightweight and beginner-friendly project
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Node.js
 
@@ -28,7 +28,7 @@ Middleware
 
 Postman (for API testing)
 
-📂 Project Flow
+**📂 Project Flow**
 
 User opens the application at
 
@@ -47,7 +47,7 @@ If the password is incorrect → user remains on the same page.
 
 The secrets page is protected and cannot be accessed directly without passing the middleware check.
 
-▶️ How to Run the Project
+**▶️ How to Run the Project**
 
 Clone the repository
 
@@ -78,7 +78,7 @@ Open your browser and visit
 
 http://localhost:3000
 
-🧪 Testing with Postman
+**🧪 Testing with Postman**
 
 Send a POST request to the password route
 
@@ -86,7 +86,7 @@ Include the password in the request body
 
 Observe middleware behavior for valid and invalid passwords
 
-📚 What I Learned
+**📚 What I Learned**
 
 How middleware works in Express
 
@@ -98,7 +98,7 @@ Handling redirects in Express
 
 Testing backend logic using Postman
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 Password hashing (bcrypt)
 
@@ -110,6 +110,6 @@ Improved UI design
 
 JWT authentication
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Built as a learning project to understand Express middleware, authentication flow, and backend routing.
